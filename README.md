@@ -23,3 +23,4 @@ https://sleele.com/2019/10/31/opencore-guide/
 ### 2022/11
 
     1.开始编辑EFI
+[![0832's Github Stats](https://stats.deeptrain.net/repo/0832k12/Thinkpad-P53-EFI/)](https://github.com/0832k12/Thinkpad-P53-EFI/)
