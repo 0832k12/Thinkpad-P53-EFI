@@ -8,7 +8,7 @@ https://sleele.com/2019/10/31/opencore-guide/
 
 | 版本        | 设备           | 下载 | 
 | ------------- | ------------------ |  ------------ | 
-| macOS 13+    | ThinkPad P53/P73/P1 | https://github.com/0832k12/Thinkpad-P53-EFI/releases/download/1.0/master.zip | 
+| macOS 13+    | ThinkPad P53/P73/P1 | https://github.com/0832k12/Thinkpad-P53-EFI/releases/download/1.0/EFI-OC-ThinkPad-P53.zip | 
 
 ## 更新日志
 ### 2023/4/26
